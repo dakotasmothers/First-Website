@@ -1,0 +1,29 @@
+body{
+    background-color: burlywood;
+    width: 100%;
+}
+.picture1:hover{
+    transform: scale(1.1,1.1)
+}
+.picture2:hover{
+    transform: scale(1.1,1.1)
+}
+.picture3:hover{
+    transform: scale(1.1,1.1)
+}
+.picture4:hover{
+    transform: scale(1.1,1.1)
+}
+.picture5:hover{
+    transform: scale(1.1,1.1)
+}
+.movie-names{
+    font-style: oblique;
+    font-size: 50px;
+}
+.movie-description{
+    font-style: normal;
+    font-size: 20px;
+    text-align: left;
+    margin: 2px;
+}
